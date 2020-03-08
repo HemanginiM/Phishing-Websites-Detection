@@ -38,6 +38,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
 jupyter-core==4.6.1
+Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
@@ -74,6 +75,7 @@ pyparsing==2.4.6
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2019.3
+PyYAML==5.3
 pyzmq==18.1.1
 qtconsole==4.6.0
 requests==2.22.0
@@ -97,7 +99,7 @@ testpath==0.4.4
 tornado==6.0.3
 traitlets==4.3.3
 urllib3==1.25.8
-wandb==0.8.22
+wandb==0.8.29
 watchdog==0.10.1
 wcwidth==0.1.8
 webencodings==0.5.1
