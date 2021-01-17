@@ -1,5 +1,6 @@
-# Manning-Phishing-Websites-Detection
-Starter repository for Manning LP: Detecting Phishing Websites using Machine Learning and Python
+# Use Machine Learning to Detect Phishing Websites
+
+This repository is my working examples for the Manning LiveProject: [Use Machine Learning to Detect Phishing Websites](https://liveproject.manning.com/project/101/21/use-machine-learning-to-detect-phishing-websites).
 
 ## Setup
 
